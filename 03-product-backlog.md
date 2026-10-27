@@ -21,3 +21,9 @@ The team charter provides **candidate backlog items**, but does not establish th
 ## Individual reflection — to complete
 
 What role did I play in prioritization or design? What trade-offs did we discuss? What did I learn?
+
+
+## Mapping feature implementation
+The supplied RideConnect source archive confirms that native and web map components were implemented, including location access, markers and a web driving-directions request. See [map integration code evidence](09-map-integration-code-evidence.md). Implementation does not by itself establish completed device testing.
+
+The original Trello priority labels cannot be recovered from the supplied chat export; no numerical priority is assigned without that record.
