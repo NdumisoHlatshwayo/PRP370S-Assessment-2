@@ -1,14 +1,14 @@
 # My UX Design Contributions — RideConnect
 
-**WhatsApp display name:** PandaFX (confirmed by the portfolio owner on 27 October 2026).
+**Student:** Ndumiso Hlatshwayo.
 
 ## Verified contributions and responsibilities
 
 | Date | Evidence | What it supports |
 |---|---|---|
-| 23 May 2026 | PandaFX shared Figma wireframes with the group and requested feedback | Participation in wireframing and design collaboration |
-| 23 July 2026 | PandaFX volunteered for Sprint 3 — UX Design | UX sprint planning responsibility |
-| 25 July 2026 | PandaFX was involved in prototype-improvement assignments | Assigned design work; completion still needs verification |
+| 23 May 2026 | Ndumiso Hlatshwayo shared Figma wireframes with the group and requested feedback | Participation in wireframing and design collaboration |
+| 23 July 2026 | Ndumiso Hlatshwayo volunteered for Sprint 3 — UX Design | UX sprint planning responsibility |
+| 25 July 2026 | Ndumiso Hlatshwayo was involved in prototype-improvement assignments | Assigned design work; completion still needs verification |
 
 The completed Agile Team Charter also lists the portfolio owner's role as **Wireframes Designer**.
 
