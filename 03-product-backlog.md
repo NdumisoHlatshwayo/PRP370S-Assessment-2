@@ -18,9 +18,22 @@ The team charter provides **candidate backlog items**, but does not establish th
 - [ ] Dates, owners, and status where recorded.
 - [ ] Explanation of how the team prioritized requirements.
 
-## Individual reflection — to complete
+## Proposed feature priorities (not original Trello labels)
 
-What role did I play in prioritization or design? What trade-offs did we discuss? What did I learn?
+These priorities are a suggested planning interpretation based on core rider and driver journeys. They are **not** recovered from the team's Trello board.
+
+| Feature | Proposed priority | Rationale |
+|---|---|---|
+| Driver registration/login | High | Drivers need access to the app. |
+| Create ride offer | High | Makes rides available to passengers. |
+| View rider requests | High | Drivers need to see booking requests. |
+| Accept rider | High | Supports the core booking process. |
+| Active ride and completion | Medium | Tracks a ride after acceptance. |
+| Passenger ride search | High | Passengers need to discover available rides. |
+
+## Individual reflection
+
+I used the group's feature discussions as context for UX design and learned that backlog planning helps connect interface decisions to core user needs. The team used Trello to organize work and circulated its backlog on 30 July 2026. The priorities above are my proposed planning interpretation, not a claim about the team's recorded rankings.
 
 
 ## Mapping feature implementation
