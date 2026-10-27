@@ -1,42 +1,32 @@
 # Sprint Backlog — RideConnect
 
-**Student:** Ndumiso Hlatshwayo · **Project:** RideConnect
+## Evidence: planning and task records
 
-## Sprint planning evidence
+The Agile Team Charter describes planned sprint ceremonies. On **23 July 2026**, the team discussed six work areas: Planning, User Journey and Structure, UX Design, Backend Design, Frontend Design, and Test and Design. I volunteered for **UX Design**. These were proposed work areas, not verified sprint start/end dates.
 
-The Agile Team Charter describes planned weekly sprint planning and review activities. On **23 July 2026**, the group chat recorded six proposed sprint areas:
+The exported [RideConnect Trello board](https://trello.com/b/BpT1NslS/rideconnect-app), reviewed **27 October 2026**, contains genuine task cards labelled **Sprint 1–8**. Examples of recorded planning and user-journey tasks include defining the app's purpose, identifying user types, researching user needs, creating personas, mapping the user journey, designing low-fidelity wireframes, and showcasing work for feedback.
 
-| Sprint area | Recorded scope | Evidence status |
+| Source | What it demonstrates | What it does not establish |
 |---|---|---|
-| 1 | Planning | Group discussion evidenced |
-| 2 | User Journey and Structure | Group discussion evidenced |
-| 3 | UX Design | Ndumiso volunteered for this area |
-| 4 | Backend Design | Group discussion evidenced |
-| 5 | Frontend Design | Group discussion evidenced |
-| 6 | Test and Design | Group discussion evidenced |
+| 23 July group discussion | Proposed sprint areas and my UX Design volunteering | Confirmed sprint dates or completed deliverables |
+| Trello sprint labels and cards | Recorded task planning across Sprint 1–8 | Formal sprint approval or task completion |
+| Trello checklist states | 82 checklists, 398 items, 26 marked checked in the export | Overall software completion percentage |
+| App screenshot gallery | Visible rider and driver interface artefacts | My sole authorship or successful end-to-end testing |
 
-These are **discussion areas**, not verified sprint start/end dates or confirmed completed tasks.
+The export includes **133 card records** and **10 list records**, including archived lists and copied cards. Two active lists are named Product Backlog. Archived To Do, Doing and Done lists cannot be treated as a reliable current sprint status board.
 
-## UX design contribution
+## My documented UX involvement
 
-- **23 May 2026:** Ndumiso shared Figma wireframes for group feedback.
-- **23 July 2026:** Ndumiso volunteered for Sprint 3 — UX Design.
-- The [RideConnect screenshot gallery](screenshots.html) illustrates the rider and driver interface flows. It does not independently prove individual authorship or sprint completion.
-- The [mapping code summary](09-map-integration-code-evidence.md) documents implementation found in source files; it is not a device-testing record.
+- **23 May 2026:** I shared Figma wireframes and requested group feedback.
+- **23 July 2026:** I volunteered for the UX Design sprint area.
+- Interface screenshots support the presence of proposed rider and driver flows, but do not prove who implemented each screen.
 
 ## Individual reflection
 
-Volunteering for UX Design helped me connect wireframe planning to the team's wider development process. I had shared Figma wireframes for feedback on 23 May 2026, and the later sprint discussion clarified where design work fitted among planning, backend, frontend and testing activities. I learned that a sprint backlog is most useful when tasks, owners and progress are clearly documented. The original sprint completion records still need verification.
+I learned that breaking work into sprint-sized tasks makes it easier to see how user research, wireframes, implementation and testing depend on one another. Sharing Figma wireframes before the July sprint discussion helped me see the value of early feedback. Volunteering for UX Design gave me a clearer place within the wider workflow, but I would improve the process by connecting each design decision to a Trello card, an owner, acceptance criteria and a recorded review outcome. I do not claim to have completed every UX task or to have attended every team meeting.
 
-## Evidence still needed
+## Evidence limitations and next steps
 
-Original Trello sprint cards, actual task statuses, assigned owners and verified sprint completion dates have not been supplied. These should only be added when authentic records are available.
+Original Trello cards and labels **are available**. Exact sprint start/end dates, individually verified task outcomes, and comprehensive acceptance/testing records remain unconfirmed. Checked checklist items reflect the exported board state, not a measured project completion rate.
 
-
-## Verified Trello sprint evidence (exported 27 October 2026)
-
-The [RideConnect Trello board](https://trello.com/b/BpT1NslS/rideconnect-app) includes labels **Sprint 1 through Sprint 8**, and task cards covering planning, user journeys, UX design, backend, frontend, database, and testing/review work. Examples include Sprint 1 planning cards (define the app's purpose, identify users, research user needs, create personas, decide features) and Sprint 2 user-journey cards (create personas, map user journey, design low-fidelity wireframes, showcase and feedback).
-
-The exported board has **133 card records** and **10 list records**, including archived lists. Two active lists are both called Product Backlog; historical **To Do**, **Doing**, and **Done** lists are archived. The export contains **82 checklists with 398 checklist items, of which 26 are checked**. These figures describe the exported Trello state, **not verified software completion or an overall project completion percentage**. Sprint labels do not independently establish sprint dates, approved scope, or completed deliverables.
-
-**Updated evidence status:** Original Trello cards and labels are now available and linked above; exact sprint outcomes and completion dates still require corroboration. This supersedes the earlier statement that no original Trello cards had been supplied.
+[View designed Sprint Backlog](sprint-backlog.html) · [View screenshots](screenshots.html) · [Back to portfolio](index.html#sprint)
