@@ -1,20 +1,33 @@
-# 4. Sprint Backlog
+# Sprint Backlog — RideConnect
 
-## Evidence
+**Student:** Ndumiso Hlatshwayo · **Project:** RideConnect
 
-The Agile Team Charter describes weekly planning and reviews, but **does not by itself prove which tasks were committed to or completed in each sprint**.
+## Sprint planning evidence
 
-### Evidence to add
-- [ ] Sprint name and dates.
-- [ ] Sprint goal and selected backlog items.
-- [ ] Task assignments and actual progress.
-- [ ] Trello screenshots, sprint plans, or other original records.
-- [ ] My wireframing tasks, with links to outputs where possible.
+The Agile Team Charter describes planned weekly sprint planning and review activities. On **23 July 2026**, the group chat recorded six proposed sprint areas:
 
-## Individual reflection — to complete
+| Sprint area | Recorded scope | Evidence status |
+|---|---|---|
+| 1 | Planning | Group discussion evidenced |
+| 2 | User Journey and Structure | Group discussion evidenced |
+| 3 | UX Design | Ndumiso volunteered for this area |
+| 4 | Backend Design | Group discussion evidenced |
+| 5 | Frontend Design | Group discussion evidenced |
+| 6 | Test and Design | Group discussion evidenced |
 
-Which sprint tasks did I personally complete? What blocked progress? How did I adjust my work and what would I improve next sprint?
+These are **discussion areas**, not verified sprint start/end dates or confirmed completed tasks.
 
+## UX design contribution
 
-## Individual UX sprint responsibility
-Ndumiso Hlatshwayo (WhatsApp display name confirmed by the student) volunteered for Sprint 3 — UX Design on 23 July 2026. The group's discussion of six sprint areas is dated, but exact start/end dates and completed Trello cards are not in the supplied chat export. The [map code evidence](09-map-integration-code-evidence.md) documents implementation in the provided project archive.
+- **23 May 2026:** Ndumiso shared Figma wireframes for group feedback.
+- **23 July 2026:** Ndumiso volunteered for Sprint 3 — UX Design.
+- The [RideConnect screenshot gallery](screenshots.html) illustrates the rider and driver interface flows. It does not independently prove individual authorship or sprint completion.
+- The [mapping code summary](09-map-integration-code-evidence.md) documents implementation found in source files; it is not a device-testing record.
+
+## Individual reflection
+
+Volunteering for UX Design helped me connect wireframe planning to the team's wider development process. I had shared Figma wireframes for feedback on 23 May 2026, and the later sprint discussion clarified where design work fitted among planning, backend, frontend and testing activities. I learned that a sprint backlog is most useful when tasks, owners and progress are clearly documented. The original sprint completion records still need verification.
+
+## Evidence still needed
+
+Original Trello sprint cards, actual task statuses, assigned owners and verified sprint completion dates have not been supplied. These should only be added when authentic records are available.
