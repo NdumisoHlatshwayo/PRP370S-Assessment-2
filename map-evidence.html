@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Map Integration Evidence | RideConnect</title><meta name="description" content="RideConnect PRP370S Agile portfolio: Map Integration Evidence"><style>:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#091324;color:#eaf4ff;font:16px/1.75 system-ui,Segoe UI,sans-serif}a{color:#89d7ff}a:hover{color:#c7efff}header{background:#10253d;border-bottom:1px solid #2c4965}nav{max-width:1020px;margin:auto;padding:17px 22px;display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}nav strong{letter-spacing:.09em}main{max-width:1020px;margin:0 auto;padding:40px 22px 80px}.eyebrow{color:#82ded4;text-transform:uppercase;letter-spacing:.14em;font-size:.8rem;font-weight:750}h1{font-size:clamp(2.3rem,6vw,3.8rem);line-height:1.13;margin:13px 0 25px}h2{font-size:1.55rem;color:#f3f9ff;margin:35px 0 14px}h3{font-size:1.18rem;color:#a4e9e2;margin:26px 0 10px}p,li{color:#cfdded}p{margin:0 0 15px}article{background:#142740;border:1px solid #2d4a66;border-radius:18px;padding:clamp(19px,4vw,36px)}article>h2:first-child{margin-top:0}ul{padding-left:24px}li{margin:7px 0}strong{color:#f1f8ff}code{color:#b1f2e6;background:#0c1c2c;padding:2px 5px;border-radius:4px;overflow-wrap:anywhere}.table-wrap{overflow-x:auto;margin:18px 0}table{border-collapse:collapse;width:100%;min-width:520px}td{border-bottom:1px solid #36526e;padding:11px;vertical-align:top}tr:first-child{background:#203c57;font-weight:700}footer{border-top:1px solid #2c4965;padding:23px;text-align:center;color:#a4b9cd}@media(max-width:650px){main{padding-top:28px}article{padding:18px}}</style></head><body><header><nav><strong>RIDECONNECT</strong><a href="index.html">← Back to portfolio</a></nav></header><main><div class="eyebrow">PRP370S / Agile Digital Portfolio</div><h1>Map Integration Evidence</h1><article><h2>RideConnect Map Integration — Source-Code Evidence</h2>
+<p><strong>Student:</strong> Ndumiso Hlatshwayo · <strong>Project:</strong> RideConnect</p>
+<p>The RideConnect source-code archive supplied for the portfolio contains the following implementations.</p>
+<h3>Native mobile map</h3>
+<p><strong>File:</strong> <code>src/components/RideMap.native.tsx</code></p>
+<ul>
+<li>Imports <code>MapView</code>, <code>Marker</code>, and <code>PROVIDER_GOOGLE</code> from <code>react-native-maps</code>.</li>
+<li>Imports <code>expo-location</code> and requests foreground location permission.</li>
+<li>Reads the device's current location with high accuracy.</li>
+<li>Centres the map on the current location and displays a user-location marker.</li>
+<li>Uses Cape Town (<code>-33.9249, 18.4241</code>) as the initial map region.</li>
+<li>Handles denied permissions and location errors.</li>
+</ul>
+<h3>Shared map component</h3>
+<p><strong>File:</strong> <code>src/components/RideMap.tsx</code></p>
+<ul>
+<li>Renders a <code>react-native-maps</code> MapView with a Cape Town initial region.</li>
+</ul>
+<h3>Web map and driving directions</h3>
+<p><strong>File:</strong> <code>src/components/RideMap.web.tsx</code></p>
+<ul>
+<li>Uses <code>@react-google-maps/api</code> components <code>GoogleMap</code>, <code>Marker</code>, <code>DirectionsRenderer</code> and <code>useJsApiLoader</code>.</li>
+<li>Reads the Google Maps API key from the <code>EXPO_PUBLIC_GOOGLE_MAPS_API_KEY</code> environment variable; <strong>the key value is not published here</strong>.</li>
+<li>Requests browser geolocation and falls back to Cape Town if location retrieval fails.</li>
+<li>Displays a current-location marker and a selected destination marker.</li>
+<li>Provides a test destination and a button to request driving directions via Google Maps DirectionsService.</li>
+<li>Renders returned directions when the service reports success.</li>
+</ul>
+<h3>What this establishes</h3>
+<p><strong>Confirmed:</strong> Map display, location permission handling, location markers and web route-calculation logic are implemented in the source archive.</p>
+<p><strong>Not established by the source alone:</strong> Whether an API key is configured in a deployed environment, whether routing works on a particular device, or whether live tracking is fully implemented and tested.</p>
+<h3>Reflection</h3>
+<p>Map integration added a location-based feature to the RideConnect codebase and shows the relationship between user-interface design, permissions, mapping services and platform differences. The native and web implementations use different APIs, making it important for the team to test both platforms separately.</p>
+<p>The code is summarized rather than uploaded wholesale because the supplied archive includes private configuration files that should not be committed to a public repository.</p></article><p style="margin-top:24px"><a href="index.html">← Return to portfolio overview</a></p></main><footer>RideConnect · Individual digital portfolio · PRP370S</footer></body></html>
