@@ -40,3 +40,10 @@ I used the group's feature discussions as context for UX design and learned that
 The supplied RideConnect source archive confirms that native and web map components were implemented, including location access, markers and a web driving-directions request. See [map integration code evidence](09-map-integration-code-evidence.md). Implementation does not by itself establish completed device testing.
 
 The original Trello priority labels cannot be recovered from the supplied chat export; no numerical priority is assigned without that record.
+
+
+## Verified Trello board evidence (exported 27 October 2026)
+
+The [RideConnect Trello board](https://trello.com/b/BpT1NslS/rideconnect-app) export contains **133 card records**, including archived cards and duplicates, across **10 list records**. Two currently open lists are both named **Product Backlog**. The board uses workstream labels such as Planning, User Journey and Structure, UX Design, Backend Design, Frontend Design, Database Design, and Test and Review, as well as Sprint 1–8 labels. Example recorded tasks include defining the app problem, identifying user types, researching user needs, creating personas, mapping user journeys, and designing low-fidelity wireframes.
+
+**Evidence limitation:** Card order and labels do not prove a formally approved High/Medium/Low feature priority ranking. The priority table above remains a **proposed interpretation**, not a transcription of Trello priorities. Archived and copied cards should not be counted as separate completed deliverables.
