@@ -31,3 +31,12 @@ Volunteering for UX Design helped me connect wireframe planning to the team's wi
 ## Evidence still needed
 
 Original Trello sprint cards, actual task statuses, assigned owners and verified sprint completion dates have not been supplied. These should only be added when authentic records are available.
+
+
+## Verified Trello sprint evidence (exported 27 October 2026)
+
+The [RideConnect Trello board](https://trello.com/b/BpT1NslS/rideconnect-app) includes labels **Sprint 1 through Sprint 8**, and task cards covering planning, user journeys, UX design, backend, frontend, database, and testing/review work. Examples include Sprint 1 planning cards (define the app's purpose, identify users, research user needs, create personas, decide features) and Sprint 2 user-journey cards (create personas, map user journey, design low-fidelity wireframes, showcase and feedback).
+
+The exported board has **133 card records** and **10 list records**, including archived lists. Two active lists are both called Product Backlog; historical **To Do**, **Doing**, and **Done** lists are archived. The export contains **82 checklists with 398 checklist items, of which 26 are checked**. These figures describe the exported Trello state, **not verified software completion or an overall project completion percentage**. Sprint labels do not independently establish sprint dates, approved scope, or completed deliverables.
+
+**Updated evidence status:** Original Trello cards and labels are now available and linked above; exact sprint outcomes and completion dates still require corroboration. This supersedes the earlier statement that no original Trello cards had been supplied.
