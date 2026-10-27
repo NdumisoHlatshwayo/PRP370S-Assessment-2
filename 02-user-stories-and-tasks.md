@@ -19,3 +19,10 @@ Possible tasks for the passenger story: design search wireframe; define search f
 ## Individual reflection — to complete
 
 What stories or tasks did I work on? How did user needs influence my design choices? What did I learn about breaking requirements into tasks?
+
+
+## Verified task evidence from Trello (exported 27 October 2026)
+
+The [RideConnect Trello board](https://trello.com/b/BpT1NslS/rideconnect-app) provides original task cards, including **identify different types of users**, **research user needs and frustrations**, **create user personas**, **map the user journey**, **design low-fidelity wireframes**, and **define driver navigation and ride-management workflows**. These are authentic task titles from the exported board and support the task-breakdown part of this section.
+
+The export does not, by itself, prove that these cards were originally written in the standard *As a [role], I want [goal], so that [benefit]* user-story format or that each had formal acceptance criteria. The illustrative user stories above remain drafts rather than original team records. Being assigned to a copied card does not independently prove personal completion.
