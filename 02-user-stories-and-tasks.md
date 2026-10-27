@@ -11,14 +11,14 @@ The completed Agile Team Charter describes proposed capabilities: user login, po
 
 Possible tasks for the passenger story: design search wireframe; define search fields; implement trip search; test results. These tasks are **illustrative suggestions**, not claims that the team performed them.
 
-### Evidence to add
-- [ ] Original user stories and acceptance criteria.
-- [ ] Trello cards or project records showing assigned tasks.
-- [ ] Relevant wireframes and explanation of my contribution.
+### Remaining evidence to verify
+- [ ] Original user stories and acceptance criteria, if documented by the team.
+- [x] Trello cards showing task titles and assigned members (verified from export; assignment is not proof of completion).
+- [x] Relevant interface screenshots and the documented 23 May 2026 Figma-wireframe sharing; original Figma files may provide stronger proof.
 
-## Individual reflection — to complete
+## Individual reflection
 
-What stories or tasks did I work on? How did user needs influence my design choices? What did I learn about breaking requirements into tasks?
+I shared Figma wireframes with the group for feedback on 23 May 2026 and later volunteered for the UX Design sprint area on 23 July 2026. These activities helped me think about the different journeys drivers and passengers need to follow in RideConnect. The Trello tasks on identifying users, mapping journeys, and creating wireframes show how a broad app idea can be broken into smaller design activities. I learned that screen flows should start with what a user is trying to accomplish and that feedback can reveal gaps before implementation. This reflection describes my documented design involvement; it does not claim I personally completed every Trello card or that all proposed features were tested.
 
 
 ## Verified task evidence from Trello (exported 27 October 2026)
